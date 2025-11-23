@@ -1,80 +1,80 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  <h1>Hi there, I'm Jitin Kumar Sengar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-  
-  <h3>🤖 AI Developer • 🧠 Agent Frameworks • ⚡ Automation Enthusiast</h3>
+<h1 align="center">👋 Hey, I'm Jitin Kumar Sengar</h1>
+<h3 align="center">AI Agent Engineer • Python Developer • LLM Enthusiast</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3F88C5&center=true&vCenter=true&width=600&lines=Architecting+AI+Agents;Building+RAG+Pipelines;Python+%7C+FastAPI+%7C+LLMs;Automating+the+Boring+Stuff" />
-</div>
-
----
-
-### 👨‍💻 About Me
-
-I am an AI Engineer passionate about bridging the gap between **Large Language Models** and **Real-world Action**. My focus is on building autonomous agents that don't just talk, but *do*.
-
-- 🔭 Currently building **Multi-Agent Frameworks** & **RAG Systems**.
-- 🧠 Deeply focused on **System Design** for scalable AI applications.
-- ⚡ I love optimizing inference latency and building robust APIs.
-- 💬 Ask me about **LangChain, Vector DBs, FastAPI, and System Architecture**.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI Agents-Expert-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Developer-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-LangGraph-orange?style=for-the-badge" />
+</p>
 
 ---
 
-### 🛠️ The Arsenal
+## 🚀 About Me
+AI Agent Developer with hands-on experience building **autonomous, tool-driven AI systems**, multi-agent architectures, structured reasoning pipelines, and real-world automation workflows.
 
-**Core AI & Data**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikitlearn,pandas" />
-</div>
-
-**Backend & Runtime**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,ts,postgres,redis,mongodb" />
-</div>
-
-**DevOps & Cloud**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,git,linux,bash" />
-</div>
+I love converting raw LLMs into **practical, intelligent systems** that can think, act, and solve problems — from scratch.
 
 ---
 
-### 📊 GitHub Analytics
+## 🧠 What I Build
+### 🔹 **Agent Architectures**
+- Tool Call Agent – direct tool execution  
+- ReAct Agent – reasoning + tool selection  
+- Multi-Tool ReAct Agent – sequential, parallel, batch tool calls  
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=devxjitin&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=devxjitin&theme=tokyonight" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxjitin&layout=compact&theme=tokyonight" />
-</div>
+### 🔹 **Expert AI Agents**
+- 🌦️ Weather Intelligence Agent  
+- 💸 Finance & Productivity Agents  
+- 🔍 Search & System Automation Agents  
 
----
-
-### 🐍 Contribution History
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
+### 🔹 **Speech Intelligence System**
+- **Real-Time Speech → Text Engine** with:
+  - Google STT (live)
+  - LLM correction layer (Gemini)
+  - Accuracy boosted from **70–80% → 92–97%**
 
 ---
 
-### 🤝 Let's Connect
+## 🛠️ Tech Stack
+**Languages:** Python, Java, C, C++  
+**AI Stack:** LLMs, LangChain, LangGraph, RAG, Prompt Engineering, Crew AI  
+**Frontend:** HTML, CSS, JavaScript  
+**Tools:** Git, GitHub, Qt Designer, API Integrations  
+**Database:** MySQL  
 
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-</div>
+---
+
+## 📌 Featured Projects
+### 🔸 **Building Agents From Scratch**
+Turning raw LLMs → fully functional agents that reason, analyze, and take action.
+
+### 🔸 **Expert-Level Domain Agents**
+Domain-focused agents with specialized toolchains.
+
+### 🔸 **Live Speech-to-Text Engine**  
+Real-time transcription + LLM cleanup layer.
+
+---
+
+## 🎓 Education
+- **MCA (AI & ML)** – K.R. Mangalam University (Pursuing)  
+- **BCA** – GLA University • CGPA: 6.9  
+
+---
+
+## 🏆 Achievements
+- ⭐ 4 Stars in Python (HackerRank)  
+- 🎤 Public Speaking & Workshop Participation  
+- 🧠 Data Science & Visual AI Competitions  
+
+---
+
+## 🌐 Connect With Me
+- **Portfolio:** *coming soon?*  
+- **GitHub:** your GitHub link  
+- **LinkedIn:** your LinkedIn link  
+- **Email:** devxjitin@gmail.com  
+
+---
+
+<p align="center">✨ Always learning. Always building. Always shipping. ✨</p>
