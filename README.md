@@ -1,36 +1,60 @@
-<!-- PROFILE HEADER -->
-<div align="center">
-  
-  <!-- Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jitin+Kumar+Sengar+%7C+devxjitin;AI+Agent+Developer+%F0%9F%A4%96;Gen+AI+%7C+LLM+Tools+%7C+Automation" alt="Typing SVG" />
+<!-- Banner -->
+<h1 align="center">👋 Hey, I'm Jitin Kumar Sengar</h1>
+<h3 align="center">AI Developer • Agent Frameworks • Automation Enthusiast</h3>
 
-  <!-- Small tagline -->
-  <p><b>Building Brahmastra-like AI agents and tools that actually do stuff, not just "Hello World".</b></p>
-
-  <!-- Social / contact badges (edit links) -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub- devxjitin -181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:yourmail@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0F9D58?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Gen+AI+Developer;Building+Agent+Frameworks;Love+to+Automate+Everything;Python+%7C+FastAPI+%7C+LLMs+%7C+RAG" />
+</p>
 
 ---
 
-### 🧠 Quick Snapshot
+## 🚀 About Me  
+- 🔭 Working on **AI agents & automation frameworks**  
+- ⚡ Passion: Making tools that feel *alive*  
+- 🎧 Code + Music = Peak productivity  
+- 💬 Ask me about anything in **Python, FastAPI, LLMs, Agents, Multitool setups**  
+- 📚 Always learning new stuff in AI & system design  
 
-```bash
-$ whoami
-> Jitin (aka devxjitin)
-> IT student • GenAI + Agents developer • India 🇮🇳
+---
 
-$ focus
-> LLM agents · tool calling · automation · FastAPI backends · AI workflows
+## 🛠️ Tech Stack
 
-$ current_device
-> Acer Nitro V15 + Ryzen 5 6600H ⚙️
+**Languages & Runtime**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts" />
+</p>
+
+**Frameworks & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,git,linux" />
+</p>
+
+**AI & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devxjitin&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devxjitin&theme=radical" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🔗 Connect with Me  
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
+
+---
