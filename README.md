@@ -1,96 +1,146 @@
 <!-- Banner -->
-<h1 align="center">👋 Hey, I'm Jitin Kumar Sengar</h1>
-<h3 align="center">AI Agent Engineer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&height=70&duration=3500&pause=800&lines=Jitin+Kumar+Sengar;AI+Agent+Engineer;LLMs+%7C+LangChain+%7C+LangGraph+%7C+RAG;Designing+Tool-Integrated+Automation+Systems;Building+Multi-Agent+Reasoning+Workflows" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=650&lines=AI+Agent+Developer;Python+%7C+LangChain+%7C+LangGraph;Building+Tool+Integrated+Agents;Automation+Systems+%26+Reasoning+Pipelines" />
+  <img src="https://komarev.com/ghpvc/?username=devxjitin&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agent%20Developer-🚀-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Always%20Building-Agents%20From%20Scratch-blueviolet?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 Summary  
-AI Agent Developer with a solid foundation in Python, LLMs, LangChain, and LangGraph.  
-Experienced in designing, developing, and deploying end-to-end AI agents and tool-integrated automation systems.  
-Skilled in multi-agent architecture, RAG basics, vector stores basics, custom tools, and memory-driven conversational systems.  
-Passionate about building scalable, reliable, and production-ready agentic workflows. :contentReference[oaicite:1]{index=1}
+<!-- Agent Focus -->
+<h3 align="center">🧠 Agentic Focus</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM%20Agents-Reasoning%20%26%20Tools-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Tool-Parallel%20%7C%20Batch%20%7C%20Sequential-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-Framework-0e9fff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-Agentic%20Graphs-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Crew%20AI-Multi--Agent%20Orchestration-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Basics-informational?style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠️ Skills  
+<!-- Tech Stack -->
+<h3 align="center">⚙️ Tech Stack (From My Resume)</h3>
 
-### **Programming**
-Python, Java, C, C++ :contentReference[oaicite:2]{index=2}  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github" />
+</p>
 
-### **Frontend**
-HTML, CSS, JavaScript (Basic) :contentReference[oaicite:3]{index=3}  
-
-### **AI & LLMs**
-LangChain, LangGraph, API Integration, RAG (Basics), Vector Stores (Basics),  
-Prompt Engineering, Crew AI :contentReference[oaicite:4]{index=4}  
-
-### **Database**
-MySQL :contentReference[oaicite:5]{index=5}  
-
-### **Tools**
-Git, GitHub, Qt Designer, MS Office :contentReference[oaicite:6]{index=6}  
-
-### **Soft Skills**
-Communication, Teamwork, Problem Solving, Public Speaking,  
-Code Reviews & Debugging, Tech-curious :contentReference[oaicite:7]{index=7}
+<p align="center">
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-LLMs-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Integration-LLM%20%26%20Tools-ff9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20Stores-Basics-795548?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qt%20Designer-GUI%20Prototyping-9c27b0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MS%20Office-Docs%20%26%20Presentations-3f51b5?style=for-the-badge" />
+</p>
 
 ---
 
-## 📌 Projects  
+<!-- Projects as Animated Cards (Collapsed to keep it clean) -->
+<details open>
+  <summary><b>🧩 Agent Systems & Experiments</b></summary>
+  <br/>
 
-### 🔹 **Building Agents from Scratch**  
-- Tool Call Agent  
-- ReAct Agent  
-- Multi-Tool ReAct Agent (batch, parallel, sequential)  
-- Focus: Converting raw LLMs into reasoning-capable agents :contentReference[oaicite:8]{index=8}  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Project-Building%20Agents%20From%20Scratch-1abc9c?style=for-the-badge" />
+  </p>
 
----
+  <p align="center">
+    <img src="https://img.shields.io/badge/Tool%20Call%20Agent-Direct%20Tool%20Execution-00bcd4?style=flat-square" />
+    <img src="https://img.shields.io/badge/ReAct%20Agent-Step%20by%20Step%20Reasoning-9c27b0?style=flat-square" />
+    <img src="https://img.shields.io/badge/Multi--Tool%20ReAct-Batch%20%7C%20Parallel%20%7C%20Sequential-e91e63?style=flat-square" />
+  </p>
 
-### 🔹 **Expert-Level Agents**  
-- Weather Agent (5-day forecasts, AQI, auto-location)  
-- More expert agents in finance, productivity, search, and automation :contentReference[oaicite:9]{index=9}  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Project-Building%20Expert%20Level%20Agents-673ab7?style=for-the-badge" />
+  </p>
 
----
+  <p align="center">
+    <img src="https://img.shields.io/badge/Weather%20Agent-5%20Day%20Forecast%20%2B%20AQI-03a9f4?style=flat-square" />
+    <img src="https://img.shields.io/badge/Domain%20Experts-Finance%20%7C%20Productivity%20%7C%20Search-4caf50?style=flat-square" />
+    <img src="https://img.shields.io/badge/System%20Automation-Custom%20Toolchains-ff9800?style=flat-square" />
+  </p>
 
-### 🔹 **Real-Time Speech-to-Text Engine (Experiment)**  
-- Real-time STT using Python + Google STT  
-- LLM correction layer (Gemini)  
-- Accuracy improved from **70–80% → 92–97%** for Hinglish/Hindi/English :contentReference[oaicite:10]{index=10}  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Experiment-Real--Time%20Speech%20to%20Text-607d8b?style=for-the-badge" />
+  </p>
 
----
-
-## 🎓 Education  
-**Master of Computer Applications (AI & ML)**  
-K.R. Mangalam University (2025–2027, Pursuing) :contentReference[oaicite:11]{index=11}  
-
-**Bachelor of Computer Applications**  
-GLA University | CGPA: 6.9 :contentReference[oaicite:12]{index=12}  
-
----
-
-## 🏆 Achievements  
-- 4⭐ in Python (HackerRank)  
-- Python Workshop (GLA University)  
-- Visual AI Tool Design Competition – K.R. Mangalam University  
-- Deep Data Science Hackathon 2.0 – K.R. Mangalam University :contentReference[oaicite:13]{index=13}  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Google%20STT-Continuous%20Listening-8bc34a?style=flat-square" />
+    <img src="https://img.shields.io/badge/Gemini-LLM%20Correction%20Layer-ff5722?style=flat-square" />
+    <img src="https://img.shields.io/badge/Accuracy-~92%E2%80%9397%25%20(Hinglish%2FHindi%2FEnglish)-9e9e9e?style=flat-square" />
+  </p>
+</details>
 
 ---
 
-## 📊 GitHub Stats  
+<!-- Education as Badges -->
+<h3 align="center">🎓 Education</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MCA-AI%20%26%20ML%20(Pursuing)-4caf50?style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/College-K.R.%20Mangalam%20University%2C%20Gurugram-2196f3?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BCA-GLA%20University%2C%20Mathura-ff9800?style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/CGPA-6.9-9c27b0?style=flat-square" />
+</p>
+
+---
+
+<!-- Achievements -->
+<h3 align="center">🏅 Achievements & Activities</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HackerRank-4%20Stars%20in%20Python-2ecc71?style=for-the-badge&logo=hackerrank" /><br/>
+  <img src="https://img.shields.io/badge/Workshops-Python%20Workshop%20(GLA)-3498db?style=flat-square" />
+  <img src="https://img.shields.io/badge/Competition-Visual%20AI%20Tool%20Design%20(KRMU)-9b59b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Competition-Deep%20Data%20Science%20Hackathon%202.0-34495e?style=flat-square" />
+</p>
+
+---
+
+<!-- GitHub Visuals -->
+<h3 align="center">📊 GitHub Stats</h3>
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devxjitin&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devxjitin&theme=radical" />
 </p>
 
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=devxjitin&theme=react-dark&hide_border=true&area=true" />
+</p>
+
 ---
 
-## 🐍 Contribution Snake  
+<!-- Contribution Snake -->
+<h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
+
+<!-- Contact -->
+<h3 align="center">🔗 Connect with Me</h3>
+
+<p align="center">
+  <!-- Replace # with your actual links when you want -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-devxjitin%40gmail.com-red?style=flat-square" />
+</p>
