@@ -1,146 +1,99 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&height=70&duration=3500&pause=800&lines=Jitin+Kumar+Sengar;AI+Agent+Engineer;LLMs+%7C+LangChain+%7C+LangGraph+%7C+RAG;Designing+Tool-Integrated+Automation+Systems;Building+Multi-Agent+Reasoning+Workflows" />
-</p>
+<h1 align="center">Hi 👋, I'm DevXJitin</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devxjitin&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agent%20Developer-🚀-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Always%20Building-Agents%20From%20Scratch-blueviolet?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+%26+Generative+AI+Enthusiast;Agent+Developer;GenAI+Tool+Builder;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
 
-<!-- Agent Focus -->
-<h3 align="center">🧠 Agentic Focus</h3>
+## 💫 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LLM%20Agents-Reasoning%20%26%20Tools-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multi--Tool-Parallel%20%7C%20Batch%20%7C%20Sequential-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-Framework-0e9fff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-Agentic%20Graphs-6f42c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Crew%20AI-Multi--Agent%20Orchestration-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Basics-informational?style=for-the-badge" />
+🤖 Passionate about **Artificial Intelligence & Generative AI**  
+🧠 **Agent Developer** building intelligent & autonomous AI agents  
+🛠️ **GenAI Tool Builder** focused on real-world, practical solutions  
+🔍 Constantly exploring new architectures & implementations  
+📂 Built and contributed to multiple **AI & GenAI projects**  
+📚 Currently learning **Advanced Generative AI**  
+💖 Inspired daily by someone special who pushes me to grow  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/devxjitin"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/devxjitin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:devxjitin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-<!-- Tech Stack -->
-<h3 align="center">⚙️ Tech Stack (From My Resume)</h3>
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github" />
-</p>
+<details>
+<summary><b>🧑‍💻 Languages</b></summary>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-LLMs-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API%20Integration-LLM%20%26%20Tools-ff9800?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector%20Stores-Basics-795548?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Qt%20Designer-GUI%20Prototyping-9c27b0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MS%20Office-Docs%20%26%20Presentations-3f51b5?style=for-the-badge" />
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 
----
+</details>
 
-<!-- Projects as Animated Cards (Collapsed to keep it clean) -->
-<details open>
-  <summary><b>🧩 Agent Systems & Experiments</b></summary>
-  <br/>
+<details>
+<summary><b>🤖 AI / ML / GenAI</b></summary>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Project-Building%20Agents%20From%20Scratch-1abc9c?style=for-the-badge" />
-  </p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![OpenCV](https://img.shields.io/badge/OpenCV-ffffff?style=for-the-badge&logo=opencv)
+![CUDA](https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=green)
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Tool%20Call%20Agent-Direct%20Tool%20Execution-00bcd4?style=flat-square" />
-    <img src="https://img.shields.io/badge/ReAct%20Agent-Step%20by%20Step%20Reasoning-9c27b0?style=flat-square" />
-    <img src="https://img.shields.io/badge/Multi--Tool%20ReAct-Batch%20%7C%20Parallel%20%7C%20Sequential-e91e63?style=flat-square" />
-  </p>
+</details>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Project-Building%20Expert%20Level%20Agents-673ab7?style=for-the-badge" />
-  </p>
+<details>
+<summary><b>🌐 Web, APIs & UI</b></summary>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Weather%20Agent-5%20Day%20Forecast%20%2B%20AQI-03a9f4?style=flat-square" />
-    <img src="https://img.shields.io/badge/Domain%20Experts-Finance%20%7C%20Productivity%20%7C%20Search-4caf50?style=flat-square" />
-    <img src="https://img.shields.io/badge/System%20Automation-Custom%20Toolchains-ff9800?style=flat-square" />
-  </p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit)
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Experiment-Real--Time%20Speech%20to%20Text-607d8b?style=for-the-badge" />
-  </p>
+</details>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Google%20STT-Continuous%20Listening-8bc34a?style=flat-square" />
-    <img src="https://img.shields.io/badge/Gemini-LLM%20Correction%20Layer-ff5722?style=flat-square" />
-    <img src="https://img.shields.io/badge/Accuracy-~92%E2%80%9397%25%20(Hinglish%2FHindi%2FEnglish)-9e9e9e?style=flat-square" />
-  </p>
+<details>
+<summary><b>☁️ Cloud, DevOps & Tools</b></summary>
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify)
+
 </details>
 
 ---
 
-<!-- Education as Badges -->
-<h3 align="center">🎓 Education</h3>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MCA-AI%20%26%20ML%20(Pursuing)-4caf50?style=for-the-badge" /><br/>
-  <img src="https://img.shields.io/badge/College-K.R.%20Mangalam%20University%2C%20Gurugram-2196f3?style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BCA-GLA%20University%2C%20Mathura-ff9800?style=for-the-badge" /><br/>
-  <img src="https://img.shields.io/badge/CGPA-6.9-9c27b0?style=flat-square" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devXjitin&theme=blueberry&show_icons=true&count_private=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=devXjitin&theme=blueberry" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devXjitin&theme=blueberry&layout=compact" />
 </p>
 
 ---
 
-<!-- Achievements -->
-<h3 align="center">🏅 Achievements & Activities</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-4%20Stars%20in%20Python-2ecc71?style=for-the-badge&logo=hackerrank" /><br/>
-  <img src="https://img.shields.io/badge/Workshops-Python%20Workshop%20(GLA)-3498db?style=flat-square" />
-  <img src="https://img.shields.io/badge/Competition-Visual%20AI%20Tool%20Design%20(KRMU)-9b59b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Competition-Deep%20Data%20Science%20Hackathon%202.0-34495e?style=flat-square" />
+  <img src="https://visitcount.itsvg.in/api?id=devXjitin&icon=0&color=0" />
 </p>
 
----
-
-<!-- GitHub Visuals -->
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devxjitin&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devxjitin&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=devxjitin&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-<!-- Contribution Snake -->
-<h3 align="center">🐍 Contribution Snake</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<!-- Contact -->
-<h3 align="center">🔗 Connect with Me</h3>
-
-<p align="center">
-  <!-- Replace # with your actual links when you want -->
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="#"><img src="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Email-devxjitin%40gmail.com-red?style=flat-square" />
-</p>
+<!-- Proudly customized by DevXJitin -->
