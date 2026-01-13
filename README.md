@@ -117,28 +117,34 @@ Late-night debugging sessions powered by coffee and curiosity. Supported by some
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://instagram.com/devxjitin">
         <img src="https://skillicons.dev/icons?i=instagram" width="65px" alt="Instagram"/><br>
         <sub><b>Instagram</b></sub>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://linkedin.com/in/devxjitin">
         <img src="https://skillicons.dev/icons?i=linkedin" width="65px" alt="LinkedIn"/><br>
         <sub><b>LinkedIn</b></sub>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="mailto:devxjitin@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" width="65px" alt="Gmail"/><br>
         <sub><b>Email</b></sub>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://github.com/devXjitin">
         <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub"/><br>
         <sub><b>GitHub</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://wa.me/917078710389">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="65px" alt="WhatsApp"/><br>
+        <sub><b>WhatsApp</b></sub>
       </a>
     </td>
   </tr>
