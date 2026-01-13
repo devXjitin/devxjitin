@@ -121,33 +121,15 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
 
 <div align="center">
 
-<a href="https://github.com/devXjitin" style="display: flex; width: 95%;">
-  <img height="250px" style="width:100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devXjitin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=FF004F&text_color=FFFFFF"/>
-  <img height="250px" style="width:100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devXjitin&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF"/>
+<a href="https://github.com/devXjitin">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devXjitin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=FF004F&text_color=FFFFFF"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devXjitin&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF"/>
 </a>
 
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width:100%">
-</p>
-
-<h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
-    background-size: 800% 800%;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: gradientMove 6s ease infinite;
-    ">Weekly Coding Activity</h1>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devXjitin&theme=radical" width="95%" alt="Contribution Graph" />
-<div style="display: flex; width: 95%;" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devXjitin&theme=radical" width="50%" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devXjitin&theme=radical" width="50%" alt="Stats" />
-
-</div>
-
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width:100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
 <h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
@@ -160,8 +142,10 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
 
 </div>
 
+
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width:100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
 <h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
@@ -175,7 +159,7 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
 <h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
@@ -189,28 +173,29 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
 <h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
     background-size: 800% 800%;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: gradientMove 6s ease infinite;
-    ">Detailed Code Metrics</h1>
+    ">Weekly Coding Activity</h1>
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devXjitin&theme=radical" width="95%" alt="Profile Details" />
 
-<div style="display: flex; width: 95%;" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devXjitin&theme=radical" width="50%" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devXjitin&theme=radical" width="50%" alt="Repos per Language" />
-</div>
-<div style="display: flex; width: 95%;" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devXjitin&theme=radical" width="50%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devXjitin&theme=radical" width="50%" alt="Commits by Hour" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devXjitin&theme=radical" width="49%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devXjitin&theme=radical" width="49%" alt="Repos per Language" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devXjitin&theme=radical" width="49%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devXjitin&theme=radical" width="49%" alt="Commits by Hour" />
+</p>
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
 <h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
@@ -235,7 +220,7 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
 <h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
@@ -251,10 +236,10 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<h1 align="left" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
+<h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
     background-size: 800% 800%;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: gradientMove 6s ease infinite;
     ">🎲 Just for Fun</h1>
 
@@ -269,7 +254,7 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
 <h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
@@ -308,11 +293,12 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-
-## Let's Connect
+<h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
+    background-size: 800% 800%;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: gradientMove 6s ease infinite;
+    ">Let's Connect</h1>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
