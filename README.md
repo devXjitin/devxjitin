@@ -2,6 +2,11 @@
   <!-- Custom Banner -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DevXJitin&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=AI%20%7C%20GenAI%20%7C%20Agent%20Developer&descAlignY=55&descSize=20" />
 
+  <!-- Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=devXjitin&style=flat-square&color=3B82F6&label=Profile+Views" alt="Profile Views"/>
+  
+  <br><br>
+
   <!-- Animated Typing Text -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=700&height=100&lines=Building+Intelligent+AI+Agents;Crafting+GenAI+Solutions;Exploring+The+Future+of+AI;Turning+Ideas+into+Reality" alt="Typing SVG" />
 </div>
@@ -30,25 +35,25 @@
 
 <br>
 
-**🎭 The Journey**
+**The Journey**
 
 From curious coder to AI architect, my path has been fueled by an obsession: *What if machines could truly understand?* Not just process—*understand*. That question drives every line of code I write, every agent I architect.
 
-**🧬 The Mission**
+**The Mission**
 
 I'm not building tools. I'm crafting **digital minds**—AI agents that don't wait for commands, they anticipate needs. GenAI systems that don't just respond, they *create*. This is the edge where **human intuition meets machine intelligence**.
 
-**⚡ The Stack of Tomorrow**
+**The Stack of Tomorrow**
 
 Multi-agent orchestration • LLM fine-tuning • RAG architectures • Vector embeddings • Autonomous reasoning chains
 
-**💫 The Why**
+**The Why**
 
 Technology isn't just my career—it's my canvas. Each project is a brushstroke in a larger masterpiece: a world where AI amplifies human potential rather than replacing it.
 
-**💖 The Fuel**
+**The Fuel**
 
-Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supported by someone special who sees the vision before it's built 🌟.
+Late-night debugging sessions powered by coffee and curiosity. Supported by someone special who sees the vision before it's built.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -103,6 +108,49 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
 </p>
 
 <h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=500&lines=Let's+Connect" alt="Let's Connect" />
+</h1>
+
+<div align="center">
+  
+### Find Me Across The Web
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://instagram.com/devxjitin">
+        <img src="https://skillicons.dev/icons?i=instagram" width="65px" alt="Instagram"/><br>
+        <sub><b>Instagram</b></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://linkedin.com/in/devxjitin">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="65px" alt="LinkedIn"/><br>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="mailto:devxjitin@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="65px" alt="Gmail"/><br>
+        <sub><b>Email</b></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/devXjitin">
+        <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub"/><br>
+        <sub><b>GitHub</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</p>
+
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=GitHub+Stats" alt="GitHub Stats" />
 </h1>
 
@@ -123,6 +171,18 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app?user=devXjitin&theme=radical&hide_border=true&background=0D1117&stroke=3B82F6&ring=FF004F&fire=FF004F&currStreakLabel=3B82F6&dates=FFFFFF" width="95%" alt="GitHub Streak" />
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=650&lines=Realtime+Contributions" alt="Realtime Contributions" />
+</h1>
+
+<div align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/devXjitin?chart=3dbar&format=svg&weeks=52&gap=0.6&colors=161B22,1e3a8a,3b82f6,8b5cf6,ec4899&labels=true" alt="Contribution Calendar" width="95%" />
 </div>
 
 <p align="center">
@@ -178,31 +238,7 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=750&lines=%E2%9A%A1+Real-Time+GitHub+Activity" alt="Real-Time GitHub Activity" />
-</h1>
-
-<div align="center">
-  <p>
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="22" />
-    <i>Auto-updated every 6 hours • Last sync: Live</i>
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="22" />
-  </p>
-  
-  <br>
-  
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-  
-  <br>
-
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=750&lines=%F0%9F%90%8D+GitHub+Contribution+Snake" alt="GitHub Contribution Snake" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=750&lines=GitHub+Contribution+Snake" alt="GitHub Contribution Snake" />
 </h1>
 
 <div align="center">
@@ -217,126 +253,24 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%8E%B2+Just+for+Fun" alt="Just for Fun" />
-</h1>
-
 <div align="center">
-  
-  ### 😂 Random Dev Joke
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=3B82F6&aColor=FF004F" alt="Jokes Card" />
-  
-  ### 🎮 Random Dev Meme
-  <img src="https://random-memer.herokuapp.com/" width="512px" alt="Memes" />
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</p>
+### Open For Collaboration
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%92%96+Support+My+Work" alt="Support My Work" />
-</h1>
+<table>
+  <tr>
+    <td align="center"><b>AI/ML Projects</b></td>
+    <td align="center"><b>GenAI Solutions</b></td>
+    <td align="center"><b>Agent Development</b></td>
+    <td align="center"><b>Tech Discussions</b></td>
+  </tr>
+</table>
 
-<div align="center">
-  <p>If you find my work helpful or inspiring, consider supporting me!</p>
-  
-  <a href="https://www.buymeacoffee.com/devxjitin" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-  </a>
-  
-  <a href="https://ko-fi.com/devxjitin" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" style="height: 60px !important;width: 217px !important;">
-  </a>
-  
-  <a href="https://github.com/sponsors/devXjitin" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor-GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" />
-  </a>
-  
-  <br><br>
-  
-  ### 🌟 Other Ways to Support
-  
-  <table>
-    <tr>
-      <td align="center">⭐ Star my repos</td>
-      <td align="center">🐛 Report bugs</td>
-      <td align="center">💡 Suggest features</td>
-      <td align="center">🤝 Contribute code</td>
-    </tr>
-  </table>
+<br><br>
 
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=500&lines=Let's+Connect" alt="Let's Connect" />
-</h1>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
-  
-  ### Find Me Across The Web
-  
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <a href="https://instagram.com/devxjitin">
-          <img src="https://skillicons.dev/icons?i=instagram" width="65px" alt="Instagram"/><br>
-          <sub><b>Instagram</b></sub><br>
-        </a>
-      </td>
-      <td align="center" width="25%">
-        <a href="https://linkedin.com/in/devxjitin">
-          <img src="https://skillicons.dev/icons?i=linkedin" width="65px" alt="LinkedIn"/><br>
-          <sub><b>LinkedIn</b></sub><br>
-        </a>
-      </td>
-      <td align="center" width="25%">
-        <a href="mailto:devxjitin@gmail.com">
-          <img src="https://skillicons.dev/icons?i=gmail" width="65px" alt="Gmail"/><br>
-          <sub><b>Email</b></sub><br>
-        </a>
-      </td>
-      <td align="center" width="25%">
-        <a href="https://github.com/devXjitin">
-          <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub"/><br>
-          <sub><b>GitHub</b></sub><br>
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  
-  ### Open For Collaboration
-  
-  <table>
-    <tr style="border: 2px solid #ff004f;">
-      <td align="center"><b>AI/ML Projects</b></td>
-      <td align="center"><b>GenAI Solutions</b></td>
-      <td align="center"><b>Agent Development</b></td>
-      <td align="center"><b>Tech Discussions</b></td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-  
-  <br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Made+with+%F0%9F%92%99+by+DevXJitin;Crafted+with+Passion+%E2%9C%A8;Powered+by+AI+%F0%9F%A4%96;Driven+by+Curiosity+%F0%9F%9A%80" alt="Footer Typing" />
-  
-  <br>
-  
-  <img src="https://komarev.com/ghpvc/?username=devXjitin&style=for-the-badge&color=3B82F6&label=Profile+Views" alt="Profile Views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
 
