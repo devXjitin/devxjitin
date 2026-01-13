@@ -50,7 +50,7 @@ Technology isn't just my career—it's my canvas. Each project is a brushstroke 
 Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supported by someone special who sees the vision before it's built 🌟.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width:100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
 <h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
@@ -96,10 +96,8 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
 
 </div>
 
-<br>
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width:100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
 <h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
@@ -110,8 +108,6 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
     <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devXjitin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=FF004F&text_color=FFFFFF"/>
     <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devXjitin&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF"/>
   </a>
-</div>
-
 </div>
 
 <p align="center">
