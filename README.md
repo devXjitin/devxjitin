@@ -18,8 +18,9 @@
 
 
 
-<h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
-  background-size: 800% 800%;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: gradientMove 6s ease infinite;">About Me</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=About+Me" alt="About Me" />
+</h1>
 
 <div align="center">
   <blockquote>
@@ -53,8 +54,9 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
-  background-size: 800% 800%;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: gradientMove 6s ease infinite;">Tech Stack</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=Tech+Stack" alt="Tech Stack" />
+</h1>
 
 <div align="left">
 
@@ -100,8 +102,9 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
-  background-size: 800% 800%;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: gradientMove 6s ease infinite;">GitHub Stats</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=GitHub+Stats" alt="GitHub Stats" />
+</h1>
 
 <div align="center">
   <a href="https://github.com/devXjitin">
@@ -114,8 +117,9 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
-  background-size: 800% 800%;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: gradientMove 6s ease infinite;">Contribution Streak</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=550&lines=Contribution+Streak" alt="Contribution Streak" />
+</h1>
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app?user=devXjitin&theme=radical&hide_border=true&background=0D1117&stroke=3B82F6&ring=FF004F&fire=FF004F&currStreakLabel=3B82F6&dates=FFFFFF" width="95%" alt="GitHub Streak" />
@@ -125,8 +129,9 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
-  background-size: 800% 800%;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: gradientMove 6s ease infinite;">GitHub Trophies</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=500&lines=GitHub+Trophies" alt="GitHub Trophies" />
+</h1>
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=devXjitin&theme=radical&no-frame=true&no-bg=true" width="95%" alt="GitHub Trophies" />
@@ -137,8 +142,9 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
-  background-size: 800% 800%;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: gradientMove 6s ease infinite;">Contribution Activity Graph</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=700&lines=Contribution+Activity+Graph" alt="Contribution Activity Graph" />
+</h1>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devXjitin&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=FF004F&point=FFFFFF&area=true&area_color=3B82F6" width="95%" alt="Contribution Graph" />
@@ -149,8 +155,9 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
-  background-size: 800% 800%;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: gradientMove 6s ease infinite;">Weekly Coding Activity</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=650&lines=Weekly+Coding+Activity" alt="Weekly Coding Activity" />
+</h1>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devXjitin&theme=radical" width="95%" alt="Profile Details" />
@@ -170,8 +177,9 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
-  background-size: 800% 800%;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: gradientMove 6s ease infinite;">⚡ Real-Time GitHub Activity</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=750&lines=%E2%9A%A1+Real-Time+GitHub+Activity" alt="Real-Time GitHub Activity" />
+</h1>
 
 <div align="center">
   <p>
@@ -193,8 +201,9 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
-  background-size: 800% 800%;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: gradientMove 6s ease infinite;">🐍 GitHub Contribution Snake</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=750&lines=%F0%9F%90%8D+GitHub+Contribution+Snake" alt="GitHub Contribution Snake" />
+</h1>
 
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -208,8 +217,9 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
-  background-size: 800% 800%;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: gradientMove 6s ease infinite;">🎲 Just for Fun</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%8E%B2+Just+for+Fun" alt="Just for Fun" />
+</h1>
 
 <div align="center">
   
@@ -225,8 +235,9 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
-  background-size: 800% 800%;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: gradientMove 6s ease infinite;">💖 Support My Work</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%92%96+Support+My+Work" alt="Support My Work" />
+</h1>
 
 <div align="center">
   <p>If you find my work helpful or inspiring, consider supporting me!</p>
@@ -262,8 +273,9 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-<h1 align="center" style="background: linear-gradient(270deg, #ff6a00, #ee0979, #00c6ff, #0072ff, #ff004f);
-  background-size: 800% 800%;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: gradientMove 6s ease infinite;">Let's Connect</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=500&lines=Let's+Connect" alt="Let's Connect" />
+</h1>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
@@ -329,11 +341,3 @@ Late-night debugging sessions powered by coffee ☕ and curiosity 🔍. Supporte
 </div>
 
 <!-- Proudly customized by DevXJitin -->
-
-<style>
-@keyframes gradientMove {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
