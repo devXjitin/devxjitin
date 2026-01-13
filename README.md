@@ -193,8 +193,8 @@ Late-night debugging sessions powered by coffee and curiosity. Supported by some
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000000&color=F75C7E&center=true&vCenter=true&repeat=false&width=500&lines=Recent+Activity" alt="Recent Activity" />
 </h1>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">

@@ -1,0 +1,10 @@
+settings:
+  username: devXjitin
+  commit_msg: Update recent activity
+  max_lines: 5
+  readme_file: README.md
+  disabled_events:
+    - comments
+  date:
+    text: ''
+    format: ''
