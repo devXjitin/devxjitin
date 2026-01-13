@@ -18,6 +18,6 @@ jobs:
         with:
           COMMIT_MSG: '⚡ Update recent activity in README'
           MAX_LINES: 5
-          README_PATH: README-INTERACTIVE.md
+          README_PATH: README.md
           COMMIT_NAME: 'github-actions[bot]'
           COMMIT_EMAIL: 'github-actions[bot]@users.noreply.github.com'
