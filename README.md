@@ -7,14 +7,9 @@
 </div>
 
 <!-- Animated GIFs Section -->
-<div align="center" style="display: flex;">
-  <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width:100%; height:400px;">
-  </p>
-  <p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2JkcDNobGJqNDRvMDQ4dzUxaDR4MXV2cWZvYmY3MnI3OWoxNzM5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" style="width:100%; height:400px;">
-  </p>
-</div>
+<p align="center"">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width:100%; height:400px;">
+</p>
 
 
 <!-- Divider GIF -->
