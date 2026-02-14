@@ -198,9 +198,9 @@ Late-night debugging sessions powered by coffee and curiosity. Supported by some
 </h1>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [devXjitin/Machine-Learning](https://github.com/devXjitin/Machine-Learning)<br>
-2. ⬆️ Pushed undefined commit(s) to [devXjitin/Machine-Learning](https://github.com/devXjitin/Machine-Learning)<br>
-3. ⬆️ Pushed undefined commit(s) to [devXjitin/Machine-Learning](https://github.com/devXjitin/Machine-Learning)<br>
+1. ⬆️ Pushed undefined commit(s) to [devXjitin/Python-Programming-Langauge-Core](https://github.com/devXjitin/Python-Programming-Langauge-Core)<br>
+2. ⬆️ Pushed undefined commit(s) to [devXjitin/Python-Programming-Langauge-Core](https://github.com/devXjitin/Python-Programming-Langauge-Core)<br>
+3. ⬆️ Pushed undefined commit(s) to [devXjitin/Python-Programming-Langauge-Core](https://github.com/devXjitin/Python-Programming-Langauge-Core)<br>
 4. ⬆️ Pushed undefined commit(s) to [devXjitin/Machine-Learning](https://github.com/devXjitin/Machine-Learning)<br>
 5. ⬆️ Pushed undefined commit(s) to [devXjitin/Machine-Learning](https://github.com/devXjitin/Machine-Learning)<br>
 <!--RECENT_ACTIVITY:end-->
