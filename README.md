@@ -202,7 +202,7 @@ Late-night debugging sessions powered by coffee and curiosity. Supported by some
 2. ⬆️ Pushed undefined commit(s) to [devXjitin/Deep-Learning-Notes](https://github.com/devXjitin/Deep-Learning-Notes)<br>
 3. ⬆️ Pushed undefined commit(s) to [devXjitin/Deep-Learning-Notes](https://github.com/devXjitin/Deep-Learning-Notes)<br>
 4. ⬆️ Pushed undefined commit(s) to [devXjitin/Deep-Learning-Notes](https://github.com/devXjitin/Deep-Learning-Notes)<br>
-5. ⬆️ Pushed undefined commit(s) to [devXjitin/Python-Programming-Langauge-Core](https://github.com/devXjitin/Python-Programming-Langauge-Core)<br>
+5. ⬆️ Pushed undefined commit(s) to [devXjitin/Deep-Learning-Notes](https://github.com/devXjitin/Deep-Learning-Notes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center">
