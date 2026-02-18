@@ -198,9 +198,9 @@ Late-night debugging sessions powered by coffee and curiosity. Supported by some
 </h1>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [devXjitin/J.E.N.T.I.S](https://github.com/devXjitin/J.E.N.T.I.S)<br>
+1. ⬆️ Pushed undefined commit(s) to [devXjitin/jentis-llmkit](https://github.com/devXjitin/jentis-llmkit)<br>
 2. ⬆️ Pushed undefined commit(s) to [devXjitin/J.E.N.T.I.S](https://github.com/devXjitin/J.E.N.T.I.S)<br>
-3. ⬆️ Pushed undefined commit(s) to [devXjitin/Deep-Learning-Notes](https://github.com/devXjitin/Deep-Learning-Notes)<br>
+3. ⬆️ Pushed undefined commit(s) to [devXjitin/J.E.N.T.I.S](https://github.com/devXjitin/J.E.N.T.I.S)<br>
 4. ⬆️ Pushed undefined commit(s) to [devXjitin/Deep-Learning-Notes](https://github.com/devXjitin/Deep-Learning-Notes)<br>
 5. ⬆️ Pushed undefined commit(s) to [devXjitin/Deep-Learning-Notes](https://github.com/devXjitin/Deep-Learning-Notes)<br>
 <!--RECENT_ACTIVITY:end-->
