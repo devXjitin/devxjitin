@@ -199,10 +199,10 @@ Late-night debugging sessions powered by coffee and curiosity. Supported by some
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [devXjitin/autourgos-llmagentkit](https://github.com/devXjitin/autourgos-llmagentkit)<br>
-2. ⬆️ Pushed undefined commit(s) to [devXjitin/autourgos-core](https://github.com/devXjitin/autourgos-core)<br>
-3. ⬆️ Pushed undefined commit(s) to [devXjitin/Computer-Use-Agent](https://github.com/devXjitin/Computer-Use-Agent)<br>
-4. ⬆️ Pushed undefined commit(s) to [devXjitin/autourgos-llmkit](https://github.com/devXjitin/autourgos-llmkit)<br>
-5. ⬆️ Pushed undefined commit(s) to [devXjitin/jentis-core](https://github.com/devXjitin/jentis-core)<br>
+2. ⬆️ Pushed undefined commit(s) to [devXjitin/autourgos-llmagentkit](https://github.com/devXjitin/autourgos-llmagentkit)<br>
+3. ⬆️ Pushed undefined commit(s) to [devXjitin/autourgos-core](https://github.com/devXjitin/autourgos-core)<br>
+4. ⬆️ Pushed undefined commit(s) to [devXjitin/Computer-Use-Agent](https://github.com/devXjitin/Computer-Use-Agent)<br>
+5. ⬆️ Pushed undefined commit(s) to [devXjitin/autourgos-llmkit](https://github.com/devXjitin/autourgos-llmkit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center">
